@@ -5,7 +5,7 @@ public class SettingTypes {
         long first = 10_000_000_000L;
         char second = 'a';
         boolean third = 5 > 9;
-        float forth = 12.90434323324342f;
+        double forth = 12.90434323324342f;
         float fifth = 12.3F;
          byte sixth = 1;
         short seventh = 129;

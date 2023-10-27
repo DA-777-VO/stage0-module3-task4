@@ -10,10 +10,10 @@ public class IntRepresentation {
         char r = 'r';
 
 
-        System.out.println((int) c);
-        System.out.println((int) h);
-        System.out.println((int) a);
-        System.out.println((int) r);
+        System.out.println(c);
+        System.out.println(h);
+        System.out.println(a);
+        System.out.println(r);
 
     }
 }
